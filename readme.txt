@@ -3,5 +3,5 @@ Git is free software distributed under the GPL.
 003this so be ha less more.
 zai zuoyici xiugai change.
 git tack changes
-wo gaile ni zhidao
-test cmd push fetch
+wo gaile wo zhidao
+test tmd push fetch
