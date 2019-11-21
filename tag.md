@@ -1,3 +1,5 @@
+## TAG命令
+
 命令git tag <name>用于新建一个标签，默认为HEAD，也可以指定一个commit id；
 git tag -a <tagname> -m "blablabla..."可以指定标签信息；
 git tag -s <tagname> -m "blablabla..."可以用PGP签名标签；
